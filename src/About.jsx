@@ -15,7 +15,7 @@ export default function About() {
         <Shopnow></Shopnow>
         </div>
         <div className='col-lg-5'>
-          <img src="/src/assets/about.jpg" className='imgabout'></img>
+          <img src="/images/about.jpg" className='imgabout'></img>
         </div>
       </div>
     </div>

@@ -4,42 +4,42 @@
     "id": 1,
     "name": "Tiffin",
     "value": "tiffin",
-    "image": "src/assets/tiffin.jpg",
+    "image": "/images/tiffin.jpg",
     "path": "/Tiffin"
   },
   {
     "id": 2,
     "name": "Meals",
     "value": "meals",
-    "image": "src/assets/meals.jpg",
+    "image": "/images/meals.jpg",
     "path": "/Meals"
   },
   {
     "id": 3,
     "name": "Snacks",
     "value": "snacks",
-    "image": "src/assets/snacks.jpg",
+    "image": "/images/snacks.jpg",
     "path": "/Snacks"
   },
   {
     "id": 4,
     "name": "Juices",
     "value": "juice",
-    "image": "src/assets/juice.jpg",
+    "image": "/images/juice.jpg",
     "path": "/Juices"
   },
   {
     "id": 5,
     "name": "Biriyani",
     "value": "biriyani",
-    "image": "src/assets/briyani.jpg",
+    "image": "/images/briyani.jpg",
     "path": "/Biriyani"
   },
   {
     "id": 6,
     "name": "Desserts",
     "value": "dessert",
-    "image": "src/assets/dessert.jpg",
+    "image": "/images/dessert.jpg",
     "path": "/Desserts"
   }
 ],
@@ -51,7 +51,7 @@
     "category": "tiffin",
     "price": 40,
     "description": "Soft steamed rice cakes",
-    "image": "/src/assets/tiffin/1.jpg"
+    "image": "/images/tiffin/1.jpg"
   },
   {
     "id": 2,
@@ -59,7 +59,7 @@
     "category": "tiffin",
     "price": 60,
     "description": "Crispy fermented crepe",
-    "image": "/src/assets/tiffin/2.jpg"
+    "image": "/images/tiffin/2.jpg"
   },
   {
     "id": 3,
@@ -67,7 +67,7 @@
     "category": "tiffin",
     "price": 30,
     "description": "Crispy lentil fritters",
-    "image": "/src/assets/tiffin/3.jpg"
+    "image": "/images/tiffin/3.jpg"
   },
   {
     "id": 4,
@@ -75,7 +75,7 @@
     "category": "tiffin",
     "price": 45,
     "description": "Rice and lentil dish",
-    "image": "/src/assets/tiffin/4.jpg"
+    "image": "/images/tiffin/4.jpg"
   },
   {
     "id": 5,
@@ -83,7 +83,7 @@
     "category": "tiffin",
     "price": 35,
     "description": "Semolina breakfast dish",
-    "image": "/src/assets/tiffin/5.jpg"
+    "image": "/images/tiffin/5.jpg"
   },
   {
     "id": 6,
@@ -91,7 +91,7 @@
     "category": "tiffin",
     "price": 55,
     "description": "Soft rice pancake",
-    "image": "/src/assets/tiffin/6.jpg"
+    "image": "/images/tiffin/6.jpg"
   },
   {
     "id": 7,
@@ -99,7 +99,7 @@
     "category": "tiffin",
     "price": 50,
     "description": "String hoppers",
-    "image": "/src/assets/tiffin/7.jpg"
+    "image": "/images/tiffin/7.jpg"
   },
   {
     "id": 8,
@@ -107,7 +107,7 @@
     "category": "tiffin",
     "price": 70,
     "description": "Crispy semolina dosa",
-    "image": "/src/assets/tiffin/8.jpg"
+    "image": "/images/tiffin/8.jpg"
   },
   {
     "id": 11,
@@ -115,7 +115,7 @@
     "category": "snacks",
     "price": 70,
     "description": "Stuffed flatbread",
-    "image": "src/assets/snacks/1.jpg"
+    "image": "/images/snacks/1.jpg"
   },
   {
     "id": 12,
@@ -123,7 +123,7 @@
     "category": "snacks",
     "price": 40,
     "description": "Egg omelette",
-    "image": "src/assets/snacks/2.jpg"
+    "image": "/images/snacks/2.jpg"
   },
   {
     "id": 13,
@@ -131,7 +131,7 @@
     "category": "snacks",
     "price": 90,
     "description": "Soft pancakes",
-    "image": "src/assets/snacks/3.jpg"
+    "image": "/images/snacks/3.jpg"
   },
   {
     "id": 14,
@@ -139,7 +139,7 @@
     "category": "snacks",
     "price": 40,
     "description": "Flattened rice dish",
-    "image": "src/assets/snacks/4.jpg"
+    "image": "/images/snacks/4.jpg"
   },
   {
     "id": 15,
@@ -147,7 +147,7 @@
     "category": "snacks",
     "price": 50,
     "description": "Veg sandwich",
-    "image": "src/assets/snacks/5.jpg"
+    "image": "/images/snacks/5.jpg"
   },
   {
     "id": 16,
@@ -155,7 +155,7 @@
     "category": "snacks",
     "price": 55,
     "description": "Healthy cereal",
-    "image": "src/assets/snacks/6.jpg"
+    "image": "/images/snacks/6.jpg"
   },
   {
     "id": 17,
@@ -163,7 +163,7 @@
     "category": "snacks",
     "price": 100,
     "description": "Chickpeas with fried bread",
-    "image": "src/assets/snacks/7.jpg"
+    "image": "/images/snacks/7.jpg"
   },
   {
     "id": 18,
@@ -171,7 +171,7 @@
     "category": "snacks",
     "price": 80,
     "description": "Potato stuffed paratha",
-    "image": "src/assets/snacks/8.jpg"
+    "image": "/images/snacks/8.jpg"
   },
   {
     "id": 21,
@@ -179,7 +179,7 @@
     "category": "meals",
     "price": 120,
     "description": "Full meals with rice & curry",
-    "image": "/src/assets/meals/1.jpg"
+    "image": "/images/meals/1.jpg"
   },
   {
     "id": 22,
@@ -187,7 +187,7 @@
     "category": "meals",
     "price": 100,
     "description": "Vegetarian thali",
-    "image": "/src/assets/meals/2.jpg"
+    "image": "/images/meals/2.jpg"
   },
   {
     "id": 23,
@@ -195,7 +195,7 @@
     "category": "meals",
     "price": 150,
     "description": "Chicken curry with rice",
-    "image": "/src/assets/meals/3.jpg"
+    "image": "/images/meals/3.jpg"
   },
   {
     "id": 24,
@@ -203,7 +203,7 @@
     "category": "meals",
     "price": 160,
     "description": "Fish curry meals",
-    "image": "/src/assets/meals/4.jpg"
+    "image": "/images/meals/4.jpg"
   },
   {
     "id": 25,
@@ -211,7 +211,7 @@
     "category": "meals",
     "price": 180,
     "description": "Mutton curry with rice",
-    "image": "/src/assets/meals/5.jpg"
+    "image": "/images/meals/5.jpg"
   },
   {
     "id": 26,
@@ -219,7 +219,7 @@
     "category": "meals",
     "price": 60,
     "description": "Rice with curd",
-    "image": "/src/assets/meals/6.jpg"
+    "image": "/images/meals/6.jpg"
   },
   {
     "id": 27,
@@ -227,7 +227,7 @@
     "category": "meals",
     "price": 80,
     "description": "Rice with sambar",
-    "image": "/src/assets/meals/7.jpg"
+    "image": "/images/meals/7.jpg"
   },
   {
     "id": 28,
@@ -235,7 +235,7 @@
     "category": "meals",
     "price": 70,
     "description": "Tangy lemon rice",
-    "image":"/src/assets/meals/8.jpg"
+    "image":"/images/meals/8.jpg"
   },
   {
     "id": 31,
@@ -243,7 +243,7 @@
     "category": "biriyani",
     "price": 160,
     "description": "Spicy chicken biryani",
-    "image":"src/assets/briyani/1.jpg"
+    "image":"/images/briyani/1.jpg"
   },
   {
     "id": 32,
@@ -251,7 +251,7 @@
     "category": "biriyani",
     "price": 200,
     "description": "Tender mutton biryani",
-    "image":"src/assets/briyani/2.jpg"
+    "image":"/images/briyani/2.jpg"
   },
   {
     "id": 33,
@@ -259,7 +259,7 @@
     "category": "biriyani",
     "price": 120,
     "description": "Vegetable biryani",
-    "image":"src/assets/briyani/3.jpg"
+    "image":"/images/briyani/3.jpg"
   },
   {
     "id": 34,
@@ -267,7 +267,7 @@
     "category": "biriyani",
     "price": 130,
     "description": "Egg biryani",
-    "image":"src/assets/briyani/4.jpg"
+    "image":"/images/briyani/4.jpg"
   },
   {
     "id": 35,
@@ -275,7 +275,7 @@
     "category": "biriyani",
     "price": 210,
     "description": "Authentic Hyderabadi style",
-    "image":"src/assets/briyani/5.jpg"
+    "image":"/images/briyani/5.jpg"
   },
   {
     "id": 36,
@@ -283,7 +283,7 @@
     "category": "biriyani",
     "price": 190,
     "description": "Mild flavored biryani",
-    "image":"src/assets/briyani/6.jpg"
+    "image":"/images/briyani/6.jpg"
   },
   {
     "id": 37,
@@ -291,7 +291,7 @@
     "category": "biriyani",
     "price": 170,
     "description": "Tamil Nadu style biryani",
-    "image":"src/assets/briyani/7.jpg"
+    "image":"/images/briyani/7.jpg"
   },
   {
     "id": 38,
@@ -299,7 +299,7 @@
     "category": "biriyani",
     "price": 220,
     "description": "Seafood biryani",
-    "image":"src/assets/briyani/8.jpg"
+    "image":"/images/briyani/8.jpg"
   },
   {
     "id": 41,
@@ -307,7 +307,7 @@
     "category": "dessert",
     "price": 60,
     "description": "Sweet milk balls",
-    "image": "src/assets/dessert/1.jpg"
+    "image": "/images/dessert/1.jpg"
   },
   {
     "id": 42,
@@ -315,7 +315,7 @@
     "category": "dessert",
     "price": 80,
     "description": "Cold creamy dessert",
-    "image": "src/assets/dessert/2.jpg"
+    "image": "/images/dessert/2.jpg"
   },
   {
     "id": 43,
@@ -323,7 +323,7 @@
     "category": "dessert",
     "price": 70,
     "description": "Soft syrup sweets",
-    "image": "src/assets/dessert/3.jpg"
+    "image": "/images/dessert/3.jpg"
   },
   {
     "id": 44,
@@ -331,7 +331,7 @@
     "category": "dessert",
     "price": 50,
     "description": "Milk-based sweet",
-    "image": "src/assets/dessert/4.jpg"
+    "image": "/images/dessert/4.jpg"
   },
   {
     "id": 45,
@@ -339,7 +339,7 @@
     "category": "dessert",
     "price": 90,
     "description": "Chocolate brownie",
-    "image": "src/assets/dessert/5.jpg"
+    "image": "/images/dessert/5.jpg"
   },
   {
     "id": 46,
@@ -347,7 +347,7 @@
     "category": "dessert",
     "price": 120,
     "description": "Soft sponge cake",
-    "image": "src/assets/dessert/6.jpg"
+    "image": "/images/dessert/6.jpg"
   },
   {
     "id": 47,
@@ -355,7 +355,7 @@
     "category": "dessert",
     "price": 40,
     "description": "Fruit jelly",
-    "image": "src/assets/dessert/7.jpg"
+    "image": "/images/dessert/7.jpg"
   },
   {
     "id": 48,
@@ -363,7 +363,7 @@
     "category": "dessert",
     "price": 60,
     "description": "Sweet fried donut",
-    "image": "src/assets/dessert/8.jpg"
+    "image": "/images/dessert/8.jpg"
   },
   {
     "id": 51,
@@ -371,7 +371,7 @@
     "category": "juice",
     "price": 50,
     "description": "Fresh orange juice",
-    "image": "src/assets/juice/1.jpg"
+    "image": "/images/juice/1.jpg"
   },
   {
     "id": 52,
@@ -379,7 +379,7 @@
     "category": "juice",
     "price": 60,
     "description": "Sweet mango juice",
-    "image": "src/assets/juice/2.jpg"
+    "image": "/images/juice/2.jpg"
   },
   {
     "id": 53,
@@ -387,7 +387,7 @@
     "category": "juice",
     "price": 70,
     "description": "Fresh apple juice",
-    "image": "src/assets/juice/3.jpg"
+    "image": "/images/juice/3.jpg"
   },
   {
     "id": 54,
@@ -395,7 +395,7 @@
     "category": "juice",
     "price": 65,
     "description": "Sweet grape juice",
-    "image": "src/assets/juice/4.jpg"
+    "image": "/images/juice/4.jpg"
   },
   {
     "id": 55,
@@ -403,7 +403,7 @@
     "category": "juice",
     "price": 60,
     "description": "Tropical pineapple juice",
-    "image": "src/assets/juice/5.jpg"
+    "image": "/images/juice/5.jpg"
   },
   {
     "id": 56,
@@ -411,7 +411,7 @@
     "category": "juice",
     "price": 50,
     "description": "Refreshing watermelon juice",
-    "image": "src/assets/juice/6.jpg"
+    "image": "/images/juice/6.jpg"
   },
   {
     "id": 57,
@@ -419,7 +419,7 @@
     "category": "juice",
     "price": 30,
     "description": "Fresh lemon juice",
-    "image": "src/assets/juice/7.jpg"
+    "image": "/images/juice/7.jpg"
   },
   {
     "id": 58,
@@ -427,7 +427,7 @@
     "category": "juice",
     "price": 40,
     "description": "Healthy carrot juice",
-    "image": "src/assets/juice/8.jpg"
+    "image": "/images/juice/8.jpg"
   }
 ]
 }
