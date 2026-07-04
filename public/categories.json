@@ -1,0 +1,433 @@
+{
+  "categories": [
+  {
+    "id": 1,
+    "name": "Tiffin",
+    "value": "tiffin",
+    "image": "src/assets/tiffin.jpg",
+    "path": "/Tiffin"
+  },
+  {
+    "id": 2,
+    "name": "Meals",
+    "value": "meals",
+    "image": "src/assets/meals.jpg",
+    "path": "/Meals"
+  },
+  {
+    "id": 3,
+    "name": "Snacks",
+    "value": "snacks",
+    "image": "src/assets/snacks.jpg",
+    "path": "/Snacks"
+  },
+  {
+    "id": 4,
+    "name": "Juices",
+    "value": "juice",
+    "image": "src/assets/juice.jpg",
+    "path": "/Juices"
+  },
+  {
+    "id": 5,
+    "name": "Biriyani",
+    "value": "biriyani",
+    "image": "src/assets/briyani.jpg",
+    "path": "/Biriyani"
+  },
+  {
+    "id": 6,
+    "name": "Desserts",
+    "value": "dessert",
+    "image": "src/assets/dessert.jpg",
+    "path": "/Desserts"
+  }
+],
+  
+  "products": [
+  {
+    "id": 1,
+    "name": "Idli",
+    "category": "tiffin",
+    "price": 40,
+    "description": "Soft steamed rice cakes",
+    "image": "/src/assets/tiffin/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Dosa",
+    "category": "tiffin",
+    "price": 60,
+    "description": "Crispy fermented crepe",
+    "image": "/src/assets/tiffin/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Vada",
+    "category": "tiffin",
+    "price": 30,
+    "description": "Crispy lentil fritters",
+    "image": "/src/assets/tiffin/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Pongal",
+    "category": "tiffin",
+    "price": 45,
+    "description": "Rice and lentil dish",
+    "image": "/src/assets/tiffin/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Upma",
+    "category": "tiffin",
+    "price": 35,
+    "description": "Semolina breakfast dish",
+    "image": "/src/assets/tiffin/5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Appam",
+    "category": "tiffin",
+    "price": 55,
+    "description": "Soft rice pancake",
+    "image": "/src/assets/tiffin/6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Idiyappam",
+    "category": "tiffin",
+    "price": 50,
+    "description": "String hoppers",
+    "image": "/src/assets/tiffin/7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Rava Dosa",
+    "category": "tiffin",
+    "price": 70,
+    "description": "Crispy semolina dosa",
+    "image": "/src/assets/tiffin/8.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Paratha",
+    "category": "snacks",
+    "price": 70,
+    "description": "Stuffed flatbread",
+    "image": "src/assets/snacks/1.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Omelette",
+    "category": "snacks",
+    "price": 40,
+    "description": "Egg omelette",
+    "image": "src/assets/snacks/2.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Pancake",
+    "category": "snacks",
+    "price": 90,
+    "description": "Soft pancakes",
+    "image": "src/assets/snacks/3.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Poha",
+    "category": "snacks",
+    "price": 40,
+    "description": "Flattened rice dish",
+    "image": "src/assets/snacks/4.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Sandwich",
+    "category": "snacks",
+    "price": 50,
+    "description": "Veg sandwich",
+    "image": "src/assets/snacks/5.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Corn Flakes",
+    "category": "snacks",
+    "price": 55,
+    "description": "Healthy cereal",
+    "image": "src/assets/snacks/6.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Chole Bhature",
+    "category": "snacks",
+    "price": 100,
+    "description": "Chickpeas with fried bread",
+    "image": "src/assets/snacks/7.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Aloo Paratha",
+    "category": "snacks",
+    "price": 80,
+    "description": "Potato stuffed paratha",
+    "image": "src/assets/snacks/8.jpg"
+  },
+  {
+    "id": 21,
+    "name": "South Indian Meals",
+    "category": "meals",
+    "price": 120,
+    "description": "Full meals with rice & curry",
+    "image": "/src/assets/meals/1.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Veg Meals",
+    "category": "meals",
+    "price": 100,
+    "description": "Vegetarian thali",
+    "image": "/src/assets/meals/2.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Chicken Meals",
+    "category": "meals",
+    "price": 150,
+    "description": "Chicken curry with rice",
+    "image": "/src/assets/meals/3.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Fish Meals",
+    "category": "meals",
+    "price": 160,
+    "description": "Fish curry meals",
+    "image": "/src/assets/meals/4.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Mutton Meals",
+    "category": "meals",
+    "price": 180,
+    "description": "Mutton curry with rice",
+    "image": "/src/assets/meals/5.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Curd Rice",
+    "category": "meals",
+    "price": 60,
+    "description": "Rice with curd",
+    "image": "/src/assets/meals/6.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Sambar Rice",
+    "category": "meals",
+    "price": 80,
+    "description": "Rice with sambar",
+    "image": "/src/assets/meals/7.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Lemon Rice",
+    "category": "meals",
+    "price": 70,
+    "description": "Tangy lemon rice",
+    "image":"/src/assets/meals/8.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Chicken Biryani",
+    "category": "biriyani",
+    "price": 160,
+    "description": "Spicy chicken biryani",
+    "image":"src/assets/briyani/1.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Mutton Biryani",
+    "category": "biriyani",
+    "price": 200,
+    "description": "Tender mutton biryani",
+    "image":"src/assets/briyani/2.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Veg Biryani",
+    "category": "biriyani",
+    "price": 120,
+    "description": "Vegetable biryani",
+    "image":"src/assets/briyani/3.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Egg Biryani",
+    "category": "biriyani",
+    "price": 130,
+    "description": "Egg biryani",
+    "image":"src/assets/briyani/4.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Hyderabadi Biryani",
+    "category": "biriyani",
+    "price": 210,
+    "description": "Authentic Hyderabadi style",
+    "image":"src/assets/briyani/5.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Kolkata Biryani",
+    "category": "biriyani",
+    "price": 190,
+    "description": "Mild flavored biryani",
+    "image":"src/assets/briyani/6.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Ambur Biryani",
+    "category": "biriyani",
+    "price": 170,
+    "description": "Tamil Nadu style biryani",
+    "image":"src/assets/briyani/7.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Prawn Biryani",
+    "category": "biriyani",
+    "price": 220,
+    "description": "Seafood biryani",
+    "image":"src/assets/briyani/8.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Gulab Jamun",
+    "category": "dessert",
+    "price": 60,
+    "description": "Sweet milk balls",
+    "image": "src/assets/dessert/1.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Ice Cream",
+    "category": "dessert",
+    "price": 80,
+    "description": "Cold creamy dessert",
+    "image": "src/assets/dessert/2.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Rasgulla",
+    "category": "dessert",
+    "price": 70,
+    "description": "Soft syrup sweets",
+    "image": "src/assets/dessert/3.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Payasam",
+    "category": "dessert",
+    "price": 50,
+    "description": "Milk-based sweet",
+    "image": "src/assets/dessert/4.jpg"
+  },
+  {
+    "id": 45,
+    "name": "Brownie",
+    "category": "dessert",
+    "price": 90,
+    "description": "Chocolate brownie",
+    "image": "src/assets/dessert/5.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Cake",
+    "category": "dessert",
+    "price": 120,
+    "description": "Soft sponge cake",
+    "image": "src/assets/dessert/6.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Jelly",
+    "category": "dessert",
+    "price": 40,
+    "description": "Fruit jelly",
+    "image": "src/assets/dessert/7.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Donut",
+    "category": "dessert",
+    "price": 60,
+    "description": "Sweet fried donut",
+    "image": "src/assets/dessert/8.jpg"
+  },
+  {
+    "id": 51,
+    "name": "Orange Juice",
+    "category": "juice",
+    "price": 50,
+    "description": "Fresh orange juice",
+    "image": "src/assets/juice/1.jpg"
+  },
+  {
+    "id": 52,
+    "name": "Mango Juice",
+    "category": "juice",
+    "price": 60,
+    "description": "Sweet mango juice",
+    "image": "src/assets/juice/2.jpg"
+  },
+  {
+    "id": 53,
+    "name": "Apple Juice",
+    "category": "juice",
+    "price": 70,
+    "description": "Fresh apple juice",
+    "image": "src/assets/juice/3.jpg"
+  },
+  {
+    "id": 54,
+    "name": "Grape Juice",
+    "category": "juice",
+    "price": 65,
+    "description": "Sweet grape juice",
+    "image": "src/assets/juice/4.jpg"
+  },
+  {
+    "id": 55,
+    "name": "Pineapple Juice",
+    "category": "juice",
+    "price": 60,
+    "description": "Tropical pineapple juice",
+    "image": "src/assets/juice/5.jpg"
+  },
+  {
+    "id": 56,
+    "name": "Watermelon Juice",
+    "category": "juice",
+    "price": 50,
+    "description": "Refreshing watermelon juice",
+    "image": "src/assets/juice/6.jpg"
+  },
+  {
+    "id": 57,
+    "name": "Lemon Juice",
+    "category": "juice",
+    "price": 30,
+    "description": "Fresh lemon juice",
+    "image": "src/assets/juice/7.jpg"
+  },
+  {
+    "id": 58,
+    "name": "Carrot Juice",
+    "category": "juice",
+    "price": 40,
+    "description": "Healthy carrot juice",
+    "image": "src/assets/juice/8.jpg"
+  }
+]
+}
